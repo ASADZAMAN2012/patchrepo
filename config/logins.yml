@@ -1,0 +1,50 @@
+nixon:
+  user_1_email: mellissa.mcconnell@patch.com #"qa_automation+user+1@patch.com"
+  user_2_email: mellissa.mcconnell+user+2@patch.com
+  user_3_email: mellissa.mcconnell+user+3@patch.com
+  admin_1_email: mellissa.mcconnell+admin@patch.com
+  editor_1_email: mellissa.mcconnell+editor@patch.com
+  master_password: password #"passwordautomated1!!"
+  editor_password: password
+  media_username: "/Users/mellissamcconnell/code"
+  timeout: 8
+staging:
+  user_1_email: qa+user1@patch.com #"qa_automation+user+1@patch.com"
+  user_2_email: qa+user2@patch.com
+  user_3_email: qa+user3@patch.com
+  admin_1_email: qa+admin1@patch.com
+  editor_1_email: qa+editor1@patch.com
+  master_password: password #"passwordautomated1!!"
+  editor_password: password
+  media_username: "/Users/mellissamcconnell/code"
+  timeout: 8
+river:
+  user_1_email: qa+user1@patch.com #"qa_automation+user+1@patch.com"
+  user_2_email: qa+user2@patch.com
+  user_3_email: qa+user3@patch.com
+  admin_1_email: qa+admin1@patch.com
+  editor_1_email: qa+editor1@patch.com
+  master_password: password #"passwordautomated1!!"
+  editor_password: password
+  media_username: "/Users/mellissamcconnell/code"
+  timeout: 8
+jayne:
+  user_1_email: qa+user1@patch.com #"qa_automation+user+1@patch.com"
+  user_2_email: qa+user2@patch.com
+  user_3_email: qa+user3@patch.com
+  admin_1_email: qa+admin1@patch.com
+  editor_1_email: qa+editor1@patch.com
+  master_password: password #"passwordautomated1!!"
+  editor_password: password
+  media_username: "/Users/mellissamcconnell/code"
+  timeout: 8
+production:
+  user_1_email: qa+automation@patch.com
+  user_2_email: qa+user2@patch.com
+  user_3_email: qa+user3@patch.com
+  admin_1_email: qa+admin1@patch.com
+  editor_1_email: colin.dowell+editor@patch.com #Editor for Flatiron PROD Only
+  master_password: test123 #PROD Password
+  editor_password: password #Applicable to Flatiron PROD Only
+  media_username: "/Users/mellissamcconnell/code"
+  timeout: 8
